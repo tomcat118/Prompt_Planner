@@ -17,6 +17,9 @@ Prompt engineering ChatGPT to generate detailed planner for one year
 ### GPT回答1
 
 <img width="977" alt="image" src="https://github.com/tomcat118/Prompt_Planner/assets/80212154/e00ad62c-78b1-45e2-9d88-53b7087265b1">
+<img width="824" alt="image" src="https://github.com/tomcat118/Prompt_Planner/assets/80212154/e6258d40-e8ec-4b20-967e-ed1b715868d7">
+<img width="924" alt="image" src="https://github.com/tomcat118/Prompt_Planner/assets/80212154/cf87d273-8456-4cfe-9d6d-62e93a33bd02">
+
 
 **三月：**
 - 完成驾照科目2的理论考试。
@@ -64,7 +67,7 @@ Prompt engineering ChatGPT to generate detailed planner for one year
 ### 反馈 & 问题
 此回答准区分了大目标，比如考托福，和小目标，比如四个科目。用户不清楚做每个人物需要的流程和时间。 我们继续输入提示词量化每个小目标，并且设定一些限制，确保任务及时做完； 
 
-### ChatGPT prompt 2
+### 文言一心 - prompt 2
 请提供以下任务需要用到的网站和资源： 
 1. 在杭州拿到驾照
 2. 在杭州找一份prompt engineer的工作
@@ -103,3 +106,28 @@ Prompt engineering ChatGPT to generate detailed planner for one year
 
 <img width="891" alt="image" src="https://github.com/tomcat118/Prompt_Planner/assets/80212154/26ebc940-8bb3-403b-800c-d345e1797cb2">
 
+收集到必要信息，比如每个阶段需要准备的时长，和重要日期，我们可以再要求GPT完善我们的规划
+
+### GPT prompt 5
+基于5个目标问我问题，比如每一个阶段需要花多少时间，并且产出一个calendar样式的结果
+<img width="899" alt="image" src="https://github.com/tomcat118/Prompt_Planner/assets/80212154/701c0c2a-53e0-4882-a777-7f97101496a7">
+您已经开始托福考试的准备，但需要确定您的目标考试日期是什么？12月31日2024
+您计划每周投入多少时间来进行口语练习和听力练习？15小时口语和10小时听力
+你已经制定了一个每月的学习计划吗？起码要有25天在学习
+目标 2：西藏自驾游旅行
+您计划的西藏旅行的确切日期是什么？ 2024 3月份
+您已经预订了机票和酒店吗？ 还没有
+您已经制定了旅行计划，包括路线和景点吗？想去拉萨，布达拉宫
+目标 3：驾照取得
+什么时候计划参加驾照科目1的理论考试？ 今年12月
+什么时候计划参加驾照科目2的理论考试？ 明年1 约
+您已经开始实际驾驶练习了吗？是的
+目标 4：找一份prompt engineer的工作
+你已经开始寻找内推机会了吗？没有
+你已经收到面试邀请了吗？ 没有
+你计划每周投入多少时间来寻找工作和准备面试？20个小时
+目标 5：健身
+13. 您计划每周健身多少次？4次
+
+您有一个特定的健身计划吗？比如每周的锻炼类型和时间？ 一周练一次腿，一次胸，一次背，一次手臂
+哪些日子和时间段最适合您进行健身？周一到周四的早晨
